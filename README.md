@@ -1,1 +1,1 @@
-Visual-Web-Application that allows users to input values into a Sudoku board and outputs a valid Sudoku or an appropriate error message
+For live demo, please go to https://kiranrajkb.github.io/sudoku-solver/
